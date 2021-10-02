@@ -3,8 +3,8 @@
   "colors": {
     "base": {
       "primary": "#E3B3E4",
-      "primaryBright": "#04c5f1",
-      "primaryDark": "#04c5f1",
+      "primaryBright": "#E3B3E4",
+      "primaryDark": "#E3B3E4",
       "secondary": "#69aefe",
       "success": "#31D0AA",
       "failure": "#ED4B9E",
