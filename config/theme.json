@@ -5,7 +5,7 @@
       "primary": "#f6e8f6",
       "primaryBright": "#E3B3E4",
       "primaryDark": "#E3B3E4",
-      "secondary": "#69aefe",
+      "secondary": "#f6e8f6",
       "success": "#31D0AA",
       "failure": "#ED4B9E",
       "warning": "#FFB237",
@@ -15,7 +15,7 @@
     "dark": {
       "background": "#f6e8f6",
       "backgroundDisabled": "#3c3742",
-      "backgroundAlt": "#E3B3E4",
+      "backgroundAlt": "#f6e8f6",
       "cardBorder": "#383241",
       "contrast": "#FFFFFF",
       "dropdown": "#e3b3e4",
