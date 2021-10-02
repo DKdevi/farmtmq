@@ -1,6 +1,6 @@
 {
   "defaultTheme": "dark",
-  "colors": {
+  "color": {
     "base": {
       "primary": "#e5bae6",
       "primaryBright": "#e5bae6",
