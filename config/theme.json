@@ -2,7 +2,7 @@
   "defaultTheme": "dark",
   "colors": {
     "base": {
-      "primary": "#E3B3E4",
+      "primary": "#e3b3e4",
       "primaryBright": "#E3B3E4",
       "primaryDark": "#E3B3E4",
       "secondary": "#69aefe",
@@ -18,7 +18,7 @@
       "backgroundAlt": "#E3B3E4",
       "cardBorder": "#383241",
       "contrast": "#FFFFFF",
-      "dropdown": "#1E1D20",
+      "dropdown": "#e3b3e4",
       "dropdownDeep": "#100C18",
       "invertedContrast": "#E3B3E4",
       "input": "#483f5a",
@@ -28,7 +28,7 @@
       "text": "#F2F6F9",
       "textDisabled": "#9b95a7",
       "textSubtle": "#e2e9f0",
-      "borderColor": "#524B63",
+      "borderColor": "#e3b3e4",
       "gradients": {
         "bubblegum": "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
         "inverseBubblegum": "linear-gradient(139.73deg, #3D2A54 0%, #313D5C 100%)",
