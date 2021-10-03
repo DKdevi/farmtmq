@@ -17,18 +17,6 @@
       "backgroundDisabled": "#FFFFFF",
       "backgroundAlt": "#1c1b21",
       "cardBorder": "#FFFFFF",
-      "contrast": "#FFFFFF",
-      "dropdown": "#1E1D20",
-      "dropdownDeep": "#100C18",
-      "invertedContrast": "#191326",
-      "input": "#483f5a",
-      "inputSecondary": "#262130",
-      "primaryDark": "#0098A1",
-      "tertiary": "#353547",
-      "text": "#FFFFFF",
-      "textDisabled": "#9b95a7",
-      "textSubtle": "#e2e9f0",
-      "borderColor": "#524B63",
     
       }
     }
