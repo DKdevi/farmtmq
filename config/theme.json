@@ -2,21 +2,21 @@
   "defaultTheme": "dark",
   "colors": {
     "base": {
-      "primary": "#e8c2e9",
-      "primaryBright": "#04c5f1",
-      "primaryDark": "#04c5f1",
-      "secondary": "#69aefe",
-      "success": "#31D0AA",
-      "failure": "#ED4B9E",
-      "warning": "#FFB237",
-      "overlay": "#7645D9"
+      "primary": "#FFFFFF",
+      "primaryBright": "#FFFFFF",
+      "primaryDark": "#FFFFFF",
+      "secondary": "#FFFFFF",
+      "success": "#FFFFFF",
+      "failure": "#FFFFFF",
+      "warning": "#FFFFFF",
+      "overlay": "#FFFFFF"
     },
 
     "dark": {
-      "background": "#e8c2e9",
-      "backgroundDisabled": "#3c3742",
+      "background": "#FFFFFF",
+      "backgroundDisabled": "#FFFFFF",
       "backgroundAlt": "#1c1b21",
-      "cardBorder": "#383241",
+      "cardBorder": "#FFFFFF",
       "contrast": "#FFFFFF",
       "dropdown": "#1E1D20",
       "dropdownDeep": "#100C18",
@@ -25,7 +25,7 @@
       "inputSecondary": "#262130",
       "primaryDark": "#0098A1",
       "tertiary": "#353547",
-      "text": "#F2F6F9",
+      "text": "#FFFFFF",
       "textDisabled": "#9b95a7",
       "textSubtle": "#e2e9f0",
       "borderColor": "#524B63",
