@@ -2,14 +2,7 @@
   "defaultTheme": "dark",
   "colors": {
     "base": {
-      "primary": "#FFFFFF",
-      "primaryBright": "#FFFFFF",
-      "primaryDark": "#FFFFFF",
-      "secondary": "#FFFFFF",
-      "success": "#FFFFFF",
-      "failure": "#FFFFFF",
-      "warning": "#FFFFFF",
-      "overlay": "#FFFFFF"
+      
     },
 
     "dark": {
