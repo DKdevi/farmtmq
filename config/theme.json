@@ -1,7 +1,8 @@
-"defaultTheme": "dark",
+{
+  "defaultTheme": "dark",
   "colors": {
     "base": {
-      "primary": "#e8c2e9",
+      "primary": "#04c5f1",
       "primaryBright": "#04c5f1",
       "primaryDark": "#04c5f1",
       "secondary": "#69aefe",
@@ -12,7 +13,7 @@
     },
 
     "dark": {
-      "background": "#e8c2e9",
+      "background": "#090c10",
       "backgroundDisabled": "#3c3742",
       "backgroundAlt": "#1c1b21",
       "cardBorder": "#383241",
