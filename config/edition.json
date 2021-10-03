@@ -1,24 +1,24 @@
 {
-  "name": "BOXES",
-  "title": "BOXES",
-  "homeTitle": "BOXES",
-  "farmPrimaryTitle": "Stake tokens to earn BOX",
+  "name": "Testmequick",
+  "title": "Testmequick",
+  "homeTitle": "Testmequick",
+  "farmPrimaryTitle": "Stake tokens to earn Tmq",
   "farmSecondaryTitle": "",
   "logoImage": "./images/networks/polygon-icon.png",
   "tokenImage": "./images/networks/polygon-icon.png",
   "homeStakingCardBackground": "./images/networks/polygon-icon.png",
   "googleAnalytics": "",
-  "priceLink": "https://polygon.poocoin.app/tokens/0xe749C72456116A6Dfe1730A35550F8097f1984aF",
+  "priceLink": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
   "socials": [
     {
       "label": "Twitter",
       "icon": "TwitterIcon",
-      "href": "https://twitter.com/Bitsfinance_io?s=09"
+      "href": "https://twitter.com/FarmFactoryYF"
     },
     {
       "label": "Telegram",
       "icon": "TelegramIcon",
-      "href": "https://t.me/bitsfinanc"
+      "href": "https://t.me/FarmFactoryFinance"
     }
   ],
   "menuOrder": [
@@ -41,7 +41,7 @@
     "exchange": {
       "label": "Exchange",
       "link": {
-        "href": "https://quickswap.exchange/#/swap?outputCurrency=0xe749C72456116A6Dfe1730A35550F8097f1984aF",
+        "href": "https://quickswap.exchange/#/swap?outputCurrency=0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
         "target": "_blank",
         "rel": "noopener noreferrer"
       },
@@ -52,17 +52,17 @@
       "icon": "LiquidityIcon",
       "items": [
         {
-          "label": "Get BOX-USDC LP",
+          "label": "Get Tmq-USDC LP",
           "link": {
-            "href": "https://quickswap.exchange/#/add/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/0xe749C72456116A6Dfe1730A35550F8097f1984aF",
+            "href": "https://quickswap.exchange/#/add/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
             "target": "_blank",
             "rel": "noopener noreferrer"
           }
         },
         {
-          "label": "Get BOX-MATIC LP",
+          "label": "Get Tmq-MATIC LP",
           "link": {
-            "href": "https://quickswap.exchange/#/add/ETH/0xe749C72456116A6Dfe1730A35550F8097f1984aF",
+            "href": "https://quickswap.exchange/#/add/ETH/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
             "target": "_blank",
             "rel": "noopener noreferrer"
           }
@@ -97,19 +97,19 @@
         {
           "label": "QuickChart",
           "link": {
-            "href": "https://v2.quickchart.app/token/0xe749C72456116A6Dfe1730A35550F8097f1984aF"
+            "href": "https://v2.quickchart.app/token/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490"
           }
         },
         {
           "label": "QuickSwap",
           "link": {
-            "href": "https://info.quickswap.exchange/token/0xe749C72456116A6Dfe1730A35550F8097f1984aF"
+            "href": "https://info.quickswap.exchange/token/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490"
           }
         },
         {
           "label": "PooCoin",
           "link": {
-            "href": "https://polygon.poocoin.app/tokens/0xe749C72456116A6Dfe1730A35550F8097f1984aF"
+            "href": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490"
           }
         }
       ]
@@ -118,42 +118,42 @@
   "chain": 137,
   "amm": "quickswap",
   "token": {
-    "symbol": "BOX",
+    "symbol": "Tmq",
     "address": {
-      "137": "0xe749C72456116A6Dfe1730A35550F8097f1984aF"
+      "137": "0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490"
     },
     "decimals": 18,
     "projectLink": ""
   },
   "contracts": {
     "referral": {
-      "137": "0xB43e14bF6e2D0561889CB10BCC4D4b74e46B7183"
+      "137": "0xA79b11c19F7386f2226Ef2BfBd40381213964D9e"
     },
     "masterChef": {
-      "137": "0x0647259a9F9F3c0a099e288f553b9d283552ec30"
+      "137": "0x6d73cF1748B68058D4E02e5CB4ef3D65237a954F"
     }
   },
   "tokenUsdPid": 0,
   "tokenEtherPid": 1,
   "usdEtherPid": 2,
-  "startBlock": "19890383",
+  "startBlock": "19733262",
   "referrals": {
     "rate": 1
   },
   "farms": [
     {
       "pid": 0,
-      "lpSymbol": "USDC-BOX",
+      "lpSymbol": "USDC-Tmq",
       "lpAddresses": {
-        "137": "0x9Bfe863688Cb73319D95Ea319FE7B8D287ef8a10"
+        "137": "0xaFeEA5AFB9c812279ae668B80fFBA4EcD2cC705F"
       },
       "token": {
-        "name": "BOX",
-        "symbol": "BOX",
+        "name": "Tmq",
+        "symbol": "Tmq",
         "address": {
-          "137": "0xe749C72456116A6Dfe1730A35550F8097f1984aF"
+          "137": "0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490"
         },
-        "projectLink": "https://polygon.poocoin.app/tokens/0xe749C72456116A6Dfe1730A35550F8097f1984aF",
+        "projectLink": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
         "decimals": {
           "137": 18
         }
@@ -173,17 +173,17 @@
     },
     {
       "pid": 1,
-      "lpSymbol": "WMATIC-BOX",
+      "lpSymbol": "WMATIC-Tmq",
       "lpAddresses": {
-        "137": "0x5dF407868A7c85A32FEF06424F5Edf4364248159"
+        "137": "0xBa9Aed6cC4120e086a342776D016BD732f479c61"
       },
       "token": {
-        "name": "BOX",
-        "symbol": "BOX",
+        "name": "Tmq",
+        "symbol": "Tmq",
         "address": {
-          "137": "0xe749C72456116A6Dfe1730A35550F8097f1984aF"
+          "137": "0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490"
         },
-        "projectLink": "https://polygon.poocoin.app/tokens/0xe749C72456116A6Dfe1730A35550F8097f1984aF",
+        "projectLink": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
         "decimals": {
           "137": 18
         }
@@ -213,7 +213,7 @@
         "address": {
           "137": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
         },
-        "projectLink": "https://polygon.poocoin.app/tokens/0xe749C72456116A6Dfe1730A35550F8097f1984aF",
+        "projectLink": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
         "decimals": {
           "137": 18
         }
@@ -243,7 +243,7 @@
         "address": {
           "137": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
         },
-        "projectLink": "https://polygon.poocoin.app/tokens/0xe749C72456116A6Dfe1730A35550F8097f1984aF",
+        "projectLink": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
         "decimals": {
           "137": 6
         }
@@ -273,7 +273,7 @@
         "address": {
           "137": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
         },
-        "projectLink": "https://polygon.poocoin.app/tokens/0xe749C72456116A6Dfe1730A35550F8097f1984aF",
+        "projectLink": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
         "decimals": {
           "137": 18
         }
@@ -303,7 +303,7 @@
         "address": {
           "137": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
         },
-        "projectLink": "https://polygon.poocoin.app/tokens/0xe749C72456116A6Dfe1730A35550F8097f1984aF",
+        "projectLink": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
         "decimals": {
           "137": 18
         }
@@ -333,7 +333,7 @@
         "address": {
           "137": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
         },
-        "projectLink": "https://polygon.poocoin.app/tokens/0xe749C72456116A6Dfe1730A35550F8097f1984aF",
+        "projectLink": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
         "decimals": {
           "137": 8
         }
@@ -363,7 +363,7 @@
         "address": {
           "137": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
         },
-        "projectLink": "https://polygon.poocoin.app/tokens/0xe749C72456116A6Dfe1730A35550F8097f1984aF",
+        "projectLink": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
         "decimals": {
           "137": 8
         }
@@ -383,15 +383,15 @@
     },
     {
       "pid": 8,
-      "lpSymbol": "BOX",
+      "lpSymbol": "Tmq",
       "lpAddresses": {
-        "137": "0x9Bfe863688Cb73319D95Ea319FE7B8D287ef8a10"
+        "137": "0xaFeEA5AFB9c812279ae668B80fFBA4EcD2cC705F"
       },
       "token": {
-        "name": "BOX",
-        "symbol": "BOX",
+        "name": "Tmq",
+        "symbol": "Tmq",
         "address": {
-          "137": "0xe749C72456116A6Dfe1730A35550F8097f1984aF"
+          "137": "0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490"
         },
         "projectLink": "",
         "decimals": {
