@@ -1,5 +1,5 @@
 {
-  "defaultTheme": "dark",
+  
   "colors": {
     "base": {
       "primary": "red",
@@ -12,7 +12,7 @@
       "overlay": "#7645D9"
     },
 
-    "dark": {
+    {
       "background": "#090c10",
       "backgroundDisabled": "#3c3742",
       "backgroundAlt": "#1c1b21",
