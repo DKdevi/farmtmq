@@ -4,9 +4,9 @@
   "homeTitle": "Testmequick",
   "farmPrimaryTitle": "Stake tokens to earn Tmq",
   "farmSecondaryTitle": "",
-  "logoImage": "./images/networks/Tmqlogo.png",
-  "tokenImage": "./images/networks/Tmqlogo.png",
-  "homeStakingCardBackground": "./images/networks/Tmqlogo.png",
+  "logoImage": "./images/networks/polygon-icon.png",
+  "tokenImage": "./images/networks/polygon-icon.png",
+  "homeStakingCardBackground": "./images/networks/polygon-icon.png",
   "googleAnalytics": "",
   "priceLink": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
   "socials": [
