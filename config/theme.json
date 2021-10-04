@@ -13,7 +13,7 @@
     },
 
     {
-      "background": "#090c10",
+      "background": "red",
       "backgroundDisabled": "#3c3742",
       "backgroundAlt": "#1c1b21",
       "cardBorder": "#383241",
