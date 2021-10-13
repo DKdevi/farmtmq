@@ -321,6 +321,36 @@
       },
       "isTokenOnly": false
     },
+        {
+      "pid": 4,
+      "lpSymbol": "USDC-DAI",
+      "lpAddresses": {
+        "137": "0xf04adBF75cDFc5eD26eeA4bbbb991DB002036Bdd"
+      },
+      "token": {
+        "name": "DAI",
+        "symbol": "DAI",
+        "address": {
+          "137": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
+        },
+        "projectLink": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
+        "decimals": {
+          "137": 18
+        }
+      },
+      "quoteToken": {
+        "name": "zzzz",
+        "symbol": "zzzz",
+        "address": {
+          "137": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+        },
+        "decimals": {
+          "137": 6
+        },
+        "projectLink": "https://www.centre.io/usdc"
+      },
+      "isTokenOnly": false
+    },
     {
       "pid": 5,
       "lpSymbol": "WMATIC-ETH",
