@@ -595,8 +595,6 @@
         "projectLink": "https://www.centre.io/usdc"
       },
       "isTokenOnly": true
-      
-      "tokenImage": "./images/networks/polygon-icon.png",
     }
   ]
 }
