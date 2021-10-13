@@ -203,6 +203,7 @@
     },
     {
       "pid": 2,
+      "logoImage": "./images/networks/polygon-icon.png",
       "lpSymbol": "WMATIC-USDC",
       "lpAddresses": {
         "137": "0x6e7a5FAFcec6BB1e78bAE2A1F0B612012BF14827"
