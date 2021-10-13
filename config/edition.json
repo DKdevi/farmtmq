@@ -201,6 +201,36 @@
       },
       "isTokenOnly": false
     },
+      {
+      "pid": 1,
+      "lpSymbol": "WMATIC-Tmq",
+      "lpAddresses": {
+        "137": "0xBa9Aed6cC4120e086a342776D016BD732f479c61"
+      },
+      "token": {
+        "name": "Tmq",
+        "symbol": "Tmq",
+        "address": {
+          "137": "0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490"
+        },
+        "projectLink": "https://polygon.poocoin.app/tokens/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
+        "decimals": {
+          "137": 18
+        }
+      },
+      "quoteToken": {
+        "name": "WMATIC",
+        "symbol": "WMATIC",
+        "address": {
+          "137": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        },
+        "decimals": {
+          "137": 18
+        },
+        "projectLink": "https://www.centre.io/usdc"
+      },
+      "isTokenOnly": false
+    },
     {
       "pid": 2,
       "lpSymbol": "WMATIC-USDC",
