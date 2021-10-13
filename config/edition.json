@@ -291,7 +291,7 @@
       },
       "isTokenOnly": false
     },
-        {
+    {
       "pid": 4,
       "lpSymbol": "USDC-DAI",
       "lpAddresses": {
