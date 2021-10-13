@@ -6,6 +6,7 @@
   "farmSecondaryTitle": "",
   "logoImage": "./images/networks/polygon-icon.png",
   "tokenImage": "./images/networks/polygon-icon.png",
+  "tokenImage": "./images/networks/polygon-icon.png",
   "homeStakingCardBackground": "./images/networks/polygon-icon.png",
   "googleAnalytics": "",
   "priceLink": "https://polygon.poocoin.app/tokens/0xe749C72456116A6Dfe1730A35550F8097f1984aF",
@@ -594,6 +595,8 @@
         "projectLink": "https://www.centre.io/usdc"
       },
       "isTokenOnly": true
+      
+      "tokenImage": "./images/networks/polygon-icon.png",
     }
   ]
 }
