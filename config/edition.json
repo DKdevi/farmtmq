@@ -80,13 +80,8 @@
     "farms": {
       "label": "Farms",
       "icon": "FarmIcon",
-        "items": [
-        {
-          "label": "Get Tmq-USDC LP",
-      "link": {
-        "href": "https://v2.quickchart.app/token/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490"
-      }
-    },
+       "link": {
+        "href": "/farms"
     "pools": {
       "label": "Pools",
       "icon": "PoolIcon",
