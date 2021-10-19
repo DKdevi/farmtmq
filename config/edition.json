@@ -136,9 +136,9 @@
   "tokenUsdPid": 0,
   "tokenEtherPid": 1,
   "usdEtherPid": 2,
-  "startBlock": "19733262",
+  "startBlock": "19739262",
   "referrals": {
-    "rate": 1
+    "rate": 0.005
   },
   "farms": [
     {
