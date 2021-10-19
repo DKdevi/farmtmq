@@ -72,6 +72,9 @@
     "farms": {
       "label": "Farms",
       "icon": "FarmIcon",
+        "items": [
+        {
+          "label": "Get Tmq-USDC LP",
       "link": {
         "href": "/farms"
       }
