@@ -51,6 +51,14 @@
       "label": "Liquidity",
       "icon": "LiquidityIcon",
       "items": [
+                {
+          "label": "xxx",
+          "link": {
+            "href": "https://quickswap.exchange/#/add/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
+            "target": "_blank",
+            "rel": "noopener noreferrer"
+          }
+        },
         {
           "label": "Get Tmq-USDC LP",
           "link": {
