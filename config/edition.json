@@ -539,36 +539,6 @@
       },
       "isTokenOnly": true
     },
-	 {
-      "pid": 12,
-      "lpSymbol": "ETH",
-      "lpAddresses": {
-        "137": "0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d"
-      },
-      "token": {
-        "name": "ETH",
-        "symbol": "ETH",
-        "address": {
-          "137": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
-        },
-        "projectLink": "",
-        "decimals": {
-          "137": 18
-        }
-      },
-      "quoteToken": {
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "address": {
-          "137": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
-        },
-        "decimals": {
-          "137": 6
-        },
-        "projectLink": "https://www.centre.io/usdc"
-      },
-      "isTokenOnly": true
-    },
     {
       "pid": 13,
       "lpSymbol": "USDT",
@@ -601,13 +571,13 @@
     },
     {
       "pid": 14,
-      "lpSymbol": "DAI",
+      "lpSymbol": "QUICK",
       "lpAddresses": {
         "137": "0xf04adBF75cDFc5eD26eeA4bbbb991DB002036Bdd"
       },
       "token": {
-        "name": "DAI",
-        "symbol": "DAI",
+        "name": "QUICK",
+        "symbol": "QUICK",
         "address": {
           "137": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
         },
