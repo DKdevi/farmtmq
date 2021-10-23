@@ -2,7 +2,7 @@
   "name": "Testmequick",
   "title": "Testmequick",
   "homeTitle": "Testmequick",
-  "farmPrimaryTitle": "Stake tokens to earn Tmq",
+  "farmPrimaryTitle": "Stake tokens to earn xx Tmq",
   "farmSecondaryTitle": "",
   "logoImage": "./images/networks/polygon-icon.png",
   "tokenImage": "./images/networks/polygon-icon.png",
@@ -52,7 +52,7 @@
       "icon": "LiquidityIcon",
       "items": [
         {
-          "label": "Get Tmq-USDC LP",
+          "label": "Get Tmq-xx LP",
           "link": {
             "href": "https://quickswap.exchange/#/add/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
             "target": "_blank",
