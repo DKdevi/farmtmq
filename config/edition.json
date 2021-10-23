@@ -2,7 +2,7 @@
   "name": "Testmequick",
   "title": "Testmequick",
   "homeTitle": "Testmequick",
-  "farmPrimaryTitle": "Stake tokens to earn xx Tmq",
+  "farmPrimaryTitle": "Stake tokens to earn Tmq",
   "farmSecondaryTitle": "",
   "logoImage": "./images/networks/polygon-icon.png",
   "tokenImage": "./images/networks/polygon-icon.png",
@@ -52,7 +52,7 @@
       "icon": "LiquidityIcon",
       "items": [
         {
-          "label": "Get Tmq-xx LP",
+          "label": "Get Tmq-USDC LP",
           "link": {
             "href": "https://quickswap.exchange/#/add/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
             "target": "_blank",
@@ -60,7 +60,7 @@
           }
         },
 		        {
-          "label": "Get Tmq-USDC LP",
+          "label": "Get Tmq-xxx LP",
           "link": {
             "href": "https://quickswap.exchange/#/add/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/0x410f3C6fe8F8197B5ECbF0c0cd038843f8A3C490",
             "target": "_blank",
@@ -510,6 +510,36 @@
       "isTokenOnly": true
     },
     {
+      "pid": 12,
+      "lpSymbol": "ETH",
+      "lpAddresses": {
+        "137": "0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d"
+      },
+      "token": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "address": {
+          "137": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+        },
+        "projectLink": "",
+        "decimals": {
+          "137": 18
+        }
+      },
+      "quoteToken": {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": {
+          "137": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+        },
+        "decimals": {
+          "137": 6
+        },
+        "projectLink": "https://www.centre.io/usdc"
+      },
+      "isTokenOnly": true
+    },
+	 {
       "pid": 12,
       "lpSymbol": "ETH",
       "lpAddresses": {
