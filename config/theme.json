@@ -2,9 +2,9 @@
   "defaultTheme": "dark",
   "colors": {
     "base": {
-      "primary": "#04c5f1",
-      "primaryBright": "#04c5f1",
-      "primaryDark": "#04c5f1",
+      "primary": "#ff1493",
+      "primaryBright": "#ff1493",
+      "primaryDark": "#ff1493",
       "secondary": "#69aefe",
       "success": "#31D0AA",
       "failure": "#ED4B9E",
